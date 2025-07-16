@@ -2,18 +2,6 @@
   <img src="https://github.com/remarkablegames/phaser-rpg/blob/master/public/logo192.png" alt="Phaser RPG">
 </p>
 
-# Phaser RPG
-
-<kbd>phaser-rpg</kbd> is a template for making [Phaser](https://phaser.io/) RPG games. The template is inspired by [`phaser-3-tilemap-blog-posts`](https://github.com/mikewesthad/phaser-3-tilemap-blog-posts/tree/master/examples/post-1) (read the [Medium story](https://medium.com/@michaelwesthadley/958fc7e6bbd6)).
-
-Play the game on:
-
-- [remarkablegames](https://remarkablegames.org/phaser-rpg/)
-
-## Prerequisites
-
-- [nvm](https://github.com/nvm-sh/nvm#readme)
-
 ## Install
 
 Clone the repository:
